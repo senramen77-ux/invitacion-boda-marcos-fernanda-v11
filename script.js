@@ -3,13 +3,13 @@
 // Para conectar Google Forms, pega aquí tu endpoint formResponse y cambia los nombres de campos entry.xxxxx.
 const GOOGLE_FORM_ACTION = "https://docs.google.com/forms/d/e/1FAIpQLSdwfCd5_NWP5UcTdzI-RKV62W1vpP-mOgf9yABiBk7iVG2JOg/formResponse";
 const GOOGLE_FIELDS = {
-  nombre: "entry.000000000",
-  asistencia: "entry.000000001",
-  asistentes: "entry.000000002",
-  acompanantes: "entry.000000003",
-  alergias: "entry.000000004",
-  autobus: "entry.000000005",
-  mensaje: "entry.000000006"
+  nombre: "entry.728728529",
+  asistencia: "entry.442660392",
+  asistentes: "entry.2068168641",
+  acompanantes: "entry.1959096987",
+  alergias: "entry.68783380",
+  autobus: "entry.1329163382",
+  mensaje: "entry.65152275"
 };
 // IMPORTANTE: sustituir los entry.000000000 anteriores por los entry reales del formulario de Google.
 
